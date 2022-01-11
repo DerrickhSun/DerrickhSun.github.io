@@ -2,3 +2,4 @@ name: Derrick Sun
 title: Derrick Sun
 
 theme: jekyll-theme-cayman
+markdown: kramdown
