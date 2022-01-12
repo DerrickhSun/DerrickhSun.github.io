@@ -4,43 +4,80 @@
     <meta charset = "UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Derrick Sun</title>
-    <style>
-      img {
-        width: 100px;
-        /*border-radius:10px;*/
-        float: middle;
-        /*margin-right: 10px*/
-      }
-      /*p {
-
-          }*/
-      .name {
-        font-weight: bold;
-      }
-    </style>
-
-    <img src="images/dhs.png" alt="image not found" />
-    <a href="#section projects">My Projects</a>
-    <p class="name">
-      <a href="mailto:dhsun@berkeley.edu">Derrick Sun</a>
-    </p>
+    <link rel="stylesheet" href="style.css">
   </head>
 
-  <section class="section About Me">
-    <h2>
-      About Me
-    </h1>
-    <p>Hi</p>
+  <section class="top">
+    <div class=header>
+      <a href="#sectionAboutMe">About Me</a>
+      <a href="#sectionprojects">My Projects</a>
+      
+    </div>
   </section>
 
-  <section class="section My Projects">
+<section class="front">
+  <h1>Derrick Sun</h1>
+  <img src="images/dhs.png" alt="A picture of Derrick Sun"/>
+</section>
+
+  <section class="sectionAboutMe">
+    <h2>
+      About Me
+    </h2>
+    <p>
+      I am an undergraduate student at the University of California, 
+      Berkeley, double majoring in Applied Math and Computer Science. I am
+      especially interested in machine learning and artificial intelligence.
+    </p>
+  </section>
+
+  <section class="skills">
+    <h2>
+      Skills
+    </h2>
+    <ul class=skilllist>
+      <li>Java</li>
+      <li>C</li>
+      <li>C++</li>
+      <li>Python</li>
+      <li>CSS</li>
+      <li>HTML5</li>
+      <li>RISC-V</li>
+    </ul>
+  </section>
+
+  <section class="sectionMyProjects">
       <h2 id="section projects">
         My Projects
       </h2>
+      <h4>
+        Matrix Multiplication
+      </h4>
       <p>
-        <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites">
-          testing
-        </a>
+        I implemented matrix multiplication in C, then optimized it
+        with cache blocking, parallelizing, and call reducing.
       </p>
+      <p>
+        Unfortunately, as this is a school project, I cannot make it
+        public. If you want to view it, contact me.
+      </p>
+      <a href="https://github.com/DerrickhSun/ProjectArk">
+      <h4>
+        Project Ark
+      </h4>
+    </a>
+      <p>
+        A little video game made using characters from the game "Arknights"
+        and gameplay inspired by "Smash Bros." I started this game as just
+        a tool to practice my Java skills, so that I wouldn't ever get rusty.
+      </p>
+      <p>
+        The game has three characters (the fourth currently does not work)
+        and is best played with two players.
+      </p>
+  </section>
+
+  <section class="bottom">
+    <a href="mailto:dhsun@berkeley.edu">Email</a>
   </section>
 </html>

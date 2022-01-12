@@ -1,8 +1,7 @@
 
 img {
-    width: 100px;
+    width: 20%;
     /*border-radius:10px;*/
-    float: middle;
     /*margin-right: 10px*/
     object-fit: cover;
     }
@@ -11,4 +10,32 @@ img {
 }*/
 .name {
     font-weight: bold;
+}
+.top {
+    font-weight: bold;
+    background-color: red;
+    justify-content: space-between;
+    position: static;
+    top: 10px;
+    width: 100%;
+}
+.front {
+}
+.rightimage {
+    float: right;
+}
+.leftcaption {
+    float: left;
+    width: 80%;
+    height: 250px
+}
+.skilllist {
+    column-count: 4;
+}
+.bottom {
+    background-color: red;
+    position: static;
+    bottom: 0px;
+    width: 100%;
+
 }
