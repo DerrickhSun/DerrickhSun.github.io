@@ -30,7 +30,12 @@ img {
     height: 250px
 }
 .skilllist {
-    column-count: 4;
+    list-style-type: none;
+    column-count: 5;
+}
+.contacts {
+    list-style-type: none;
+    column-count: 3;
 }
 .bottom {
     background-color: red;

@@ -9,9 +9,11 @@
 
   <section class="top">
     <div class=header>
-      <a href="#sectionAboutMe">About Me</a>
-      <a href="#sectionprojects">My Projects</a>
-      
+      <a href="#me">About Me</a>
+      <a href="#skills">My Skills</a>
+      <a href="#projects">My Projects</a>
+      <a href="#experience">My Experience</a>
+      <a href="#contact">Contact Me</a>
     </div>
   </section>
 
@@ -21,7 +23,7 @@
 </section>
 
   <section class="sectionAboutMe">
-    <h2>
+    <h2 id="me">
       About Me
     </h2>
     <p>
@@ -31,31 +33,36 @@
     </p>
   </section>
 
-  <section class="skills">
-    <h2>
+  <section class="sectionSkills">
+    <h2 id="skills">
       Skills
     </h2>
     <ul class=skilllist>
-      <li>Java</li>
       <li>C</li>
       <li>C++</li>
-      <li>Python</li>
+      <li>Java</li>
       <li>CSS</li>
       <li>HTML5</li>
+      <li>Javascript</li>
+      <li>Python</li>
       <li>RISC-V</li>
+      <li>SQL</li>
+      <li>LaTeX</li>
     </ul>
   </section>
 
   <section class="sectionMyProjects">
-      <h2 id="section projects">
+      <h2 id="projects">
         My Projects
       </h2>
       <h4>
         Matrix Multiplication
       </h4>
       <p>
-        I implemented matrix multiplication in C, then optimized it
-        with cache blocking, parallelizing, and call reducing.
+        I implemented matrix multiplication in a mix of C and Python, then optimized it
+        with unrolling, cache blocking, parallelizing, call reducing, and other optimizations. 
+        The finished result created matrix objects from certain input and performed 
+        matrix multiplication on the matrices.
       </p>
       <p>
         Unfortunately, as this is a school project, I cannot make it
@@ -67,17 +74,36 @@
       </h4>
     </a>
       <p>
-        A little video game made using characters from the game "Arknights"
+        A video game made using characters from the game "Arknights"
         and gameplay inspired by "Smash Bros." I started this game as just
         a tool to practice my Java skills, so that I wouldn't ever get rusty.
       </p>
       <p>
         The game has three characters (the fourth currently does not work)
-        and is best played with two players.
+        and is best played with two players. It is admittedly not 
+        user-friendly, as it was only intended as a for-fun project and 
+        I frequently have to stop part way through some update due to 
+        school. The game is run from the driver file in src.
       </p>
   </section>
 
-  <section class="bottom">
-    <a href="mailto:dhsun@berkeley.edu">Email</a>
+  <section class="sectionMyExperience">
+    <h2 id="experience">
+      My Experience
+    </h2>
+    <p>
+      I interned at UCSD.
+    </p>
+  </section>
+
+  <section class="bottom" id="bottom">
+    <h3 id="contact">
+      Contact
+    </h3>
+    <ul class=contacts>
+      <li><a href="mailto:dhsun@berkeley.edu">Email: dhsun@berkeley.edu</a></li>
+      <li>Address: 2580 Bancroft Way, Berkeley, CA</li>
+      <li>Phone: 858-397-3992</li>
+    </ul>
   </section>
 </html>
