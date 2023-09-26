@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: Derrick Sun
+---
 
-You can use the [editor on GitHub](https://github.com/DerrickhSun/DerrickhSun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+<img src="./images/selfInSuit.jpg" alt="image of me" style="width:300px;"/>
+</p>
 
-### Markdown
+## About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am an undergraduate student at the University of California, Berkeley, double majoring in Applied Math and Computer Science. I am especially interested in machine learning and artificial intelligence. I will be graduating from UC Berkeley in 2024.
 
-```markdown
-Syntax highlighted code block
+<section class="experience">
+<h2> My Experience </h2>
+</section>
 
-# Header 1
-## Header 2
-### Header 3
+#### NewsBreak
 
-- Bulleted
-- List
+I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
+location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### UCSD Nanomaterials and Nanomedicine Laboratory
 
-[Link](url) and ![Image](src)
-```
+I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## My Education
 
-### Jekyll Themes
+#### University of California, Berkeley (2020-2024)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DerrickhSun/DerrickhSun.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I am an undergraduate at the University of California, Berkeley. I am majoring in Computer Science and Applied Math.
 
-### Support or Contact
+#### Westview High School
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I attended Westview High School, where I graduated with a GPA of 3.9 out of 4.0.
+
+## Skills
+
+<ul class=skilllist>
+      <li>C</li>
+      <li>C++</li>
+      <li>Java</li>
+      <li>CSS</li>
+      <li>HTML5</li>
+      <li>Javascript</li>
+      <li>Python</li>
+      <li>RISC-V</li>
+      <li>SQL</li>
+      <li>LaTeX</li>
+      <li>Swift</li>
+      <li>PyTorch</li>
+      <li>Ruby</li>
+    </ul>
+
+## My Projects
+
+#### [County Representatives Website](https://su23-11-57a34b75dce1.herokuapp.com/)
+
+I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
+
+#### [ARIES Recovery System](https://github.com/cs186-student/sp23-proj5-leslie33kim/commits/main)
+
+I implemented a recovery system, including savepoints, rollbacks, and ACID compliant restart recovery. The system makes use of a dirty page dable and transaction table to track database accesses and recovery in the event of failure. I worked with another person when working on this project.
+
+#### [Pintos Filesys Operating System](https://github.com/DerrickhSun/CS162OSFilesys)
+      
+I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It also has a working filesystem, including a buffer cache, extensible files, subdirectories and file locking. However, it only has basic multithreading, and is lacking many features such as an internal clock and priority lending. I had three collaborators when working on this project.
+
+#### [Pintos Multithreaded Operating System](https://github.com/DerrickhSun/CS162OSMultithreading)
+
+I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It is multithreaded, implementing locks, thread priorities, priority lending, and an internal clock. However, it is lacking many filesystem features such as subdirectories and a buffer cache. I had three collaborators when working on this project.
+
+#### [Matrix Multiplication](https://github.com/61c-student/sp21-proj4-DerrickhSun)
+
+I implemented matrix multiplication in a mix of C and Python, then optimized it with unrolling, cache blocking, parallelizing, call reducing, and other optimizations. The finished result created matrix objects from certain input and performed matrix multiplication on the matrices.
+
+#### [Project Ark](https://github.com/DerrickhSun/ProjectArk)
+
+A video game made using characters from the game "Arknights" and gameplay inspired by "Smash Bros." I started this game as a tool to practice my Java skills.
+
+The game has three useable characters and is best played with two players. It is admittedly not user-friendly, as it was only intended as a for-fun project and I frequently have to stop part way through updates due to school. The game is run from the driver file in src.
