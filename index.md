@@ -85,19 +85,19 @@ I wrote the code for an app that allows for the viewing of representatives of co
 
 I implemented a recovery system, including savepoints, rollbacks, and ACID compliant restart recovery. The system makes use of a dirty page dable and transaction table to track database accesses and recovery in the event of failure. I worked with another person when working on this project.
 
-#### [Pintos Filesys Operating System](https://github.com/DerrickhSun/CS162OSFilesys)
+<h4><a href="https://github.com/DerrickhSun/CS162OSFilesys">Pintos Filesys Operating System</a></h4>
       
 I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It also has a working filesystem, including a buffer cache, extensible files, subdirectories and file locking. However, it only has basic multithreading, and is lacking many features such as an internal clock and priority lending. I had three collaborators when working on this project.
 
-#### [Pintos Multithreaded Operating System](https://github.com/DerrickhSun/CS162OSMultithreading)
+<h4><a href="https://github.com/DerrickhSun/CS162OSMultithreading">Pintos Multithreaded Operating System</a></h4>
 
 I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It is multithreaded, implementing locks, thread priorities, priority lending, and an internal clock. However, it is lacking many filesystem features such as subdirectories and a buffer cache. I had three collaborators when working on this project.
 
-#### [Matrix Multiplication](https://github.com/61c-student/sp21-proj4-DerrickhSun)
+<h4><a href="https://github.com/61c-student/sp21-proj4-DerrickhSun">Matrix Multiplication</a></h4>
 
 I implemented matrix multiplication in a mix of C and Python, then optimized it with unrolling, cache blocking, parallelizing, call reducing, and other optimizations. The finished result created matrix objects from certain input and performed matrix multiplication on the matrices.
 
-#### [Project Ark](https://github.com/DerrickhSun/ProjectArk)
+<h4><a href="https://github.com/DerrickhSun/ProjectArk">Project Ark</a></h4>
 
 A video game made using characters from the game "Arknights" and gameplay inspired by "Smash Bros." I started this game as a tool to practice my Java skills.
 
