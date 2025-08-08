@@ -81,7 +81,7 @@ I wrote the code for an app that allows for the viewing of representatives of co
 <summary><h3>Older Projects</h3>
 </summary>
 
-<h4><a href=“https://github.com/cs186-student/sp23-proj5-leslie33kim/commits/main”>ARIES Recovery System</a></h1>
+<h4><a href=“https://github.com/cs186-student/sp23-proj5-leslie33kim/commits/main”>ARIES Recovery System</a></h4>
 
 I implemented a recovery system, including savepoints, rollbacks, and ACID compliant restart recovery. The system makes use of a dirty page dable and transaction table to track database accesses and recovery in the event of failure. I worked with another person when working on this project.
 
