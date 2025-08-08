@@ -10,11 +10,17 @@ title: Derrick Sun
 
 ## About Me
 
-I am an undergraduate student at the University of California, Berkeley, double majoring in Applied Math and Computer Science. I am especially interested in machine learning and artificial intelligence. I will be graduating from UC Berkeley in 2024.
+I am a graduate student at Purdue University, studying Computer Science. I am especially interested in machine learning and artificial intelligence. I plan to graduate in December 2025.
+
+I got my Bachelor's degree from the University of California Berkeley, which I graduated from in 2024.
 
 <section class="experience">
 <h2> My Experience </h2>
 </section>
+
+#### Bridger Investment Partners
+
+I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. I worked as a data scientist, using Prefect to automate their data processing. I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.
 
 #### NewsBreak
 
@@ -28,37 +34,52 @@ I interned at UCSD as a Research Analyst Intern. I implemented modern cell membr
 
 ## My Education
 
+#### Purdue University (2024-2025)
+
+I am a graduate student at Purdue University. I am studying Computer Science.
+
 #### University of California, Berkeley (2020-2024)
 
-I am an undergraduate at the University of California, Berkeley. I am majoring in Computer Science and Applied Math.
+I earned my Bachelor's degree from the University of California, Berkeley, where I did a double major in Computer Science and Applied Math.
 
 #### Westview High School
 
-I attended Westview High School, where I graduated with a GPA of 3.9 out of 4.0.
+I attended Westview High School.
 
 ## Skills
 
 <ul class=skilllist>
-      <li>C</li>
-      <li>C++</li>
-      <li>Java</li>
-      <li>CSS</li>
-      <li>HTML5</li>
-      <li>Javascript</li>
-      <li>Python</li>
-      <li>RISC-V</li>
-      <li>SQL</li>
-      <li>LaTeX</li>
-      <li>Swift</li>
-      <li>PyTorch</li>
-      <li>Ruby</li>
+      <li>Programming Languages: Python, Java, SQL, C/C++, R, MATLAB, Swift, JavaScript, HTML/CSS</li>
+      <li>ML/AI Frameworks: PyTorch, TensorFlow, DSPy, Scikit-learn</li>
+      <li>Data Tools: Pandas, NumPy, Matplotlib, Seaborn, RStudio, Jupyter</li>
+      <li>Cloud & Databases: AWS S3, Redshift, PostgreSQL, MongoDB</li>
+      <li>Development Tools: Git, Docker, Prefect, XCode, LaTeX, RISC-V</li>
     </ul>
 
 ## My Projects
 
+### Recent Projects
+
+#### [Deep Learning for Mushroom Classification](https://github.com/DerrickhSun/CS573MushroomProject)
+
+I developed and evaluated dicision tree, neural network, and naive Bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also applied LIME to enhance model interpretability, which showed smell was one of the most dominant factors.
+
+#### [Uncerainty Evaluation with Neural Networks](https://github.com/DerrickhSun/CS578-Uncertainty-Project)
+
+I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.
+
 #### [County Representatives Website](https://su23-11-57a34b75dce1.herokuapp.com/)
 
 I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
+
+<details>
+<style>
+  h3 {
+    display: inline; /* Or display: inline-block; */
+  }
+</style>
+<summary><h3>Older Projects</h3>
+</summary>
 
 #### [ARIES Recovery System](https://github.com/cs186-student/sp23-proj5-leslie33kim/commits/main)
 
@@ -81,3 +102,4 @@ I implemented matrix multiplication in a mix of C and Python, then optimized it 
 A video game made using characters from the game "Arknights" and gameplay inspired by "Smash Bros." I started this game as a tool to practice my Java skills.
 
 The game has three useable characters and is best played with two players. It is admittedly not user-friendly, as it was only intended as a for-fun project and I frequently have to stop part way through updates due to school. The game is run from the driver file in src.
+</details>
