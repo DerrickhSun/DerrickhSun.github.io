@@ -64,40 +64,41 @@ I interned at UCSD as a Research Analyst Intern. I implemented modern cell membr
 ## My Projects
 
 ### Recent Projects
+<br>
 
 #### [Personal Webpage](https://derrickhsun.github.io/)
 
 <div style="text-align: justify">
 This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 10th, 2025.
-</div>
+</div><br>
 
 #### [Deep Learning for Mushroom Classification (2025)](https://github.com/DerrickhSun/CS573MushroomProject)
 
 <div style="text-align: justify">
-I developed and evaluated decision tree, neural network, and naive Bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also applied LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div>
+I developed and evaluated decision tree, neural network, and naive Bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also applied LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div><br>
 
 #### [Uncerainty Evaluation with Neural Networks (2025)](https://github.com/DerrickhSun/CS578-Uncertainty-Project)
 
 <div style="text-align: justify">
-I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div>
+I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div><br>
 
 
-<br>
 <details>
-<style>
-  h3 {
-    display: inline; /* Or display: inline-block; */
-  }
-</style>
-<summary><h3>Older Projects</h3>
-</summary>
+  <style>
+    h3 {
+      display: inline; /* Or display: inline-block; */
+    }
+  </style>
+  <summary><h3>Older Projects</h3>
+  </summary>
+  <br>
 
-<h4><a href="https://su23-11-57a34b75dce1.herokuapp.com/">County Representatives Website (2023)</a></h4>
-<div style="text-align: justify">
-  I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
-</div>
+  <h4><a href="https://su23-11-57a34b75dce1.herokuapp.com/">County Representatives Website (2023)</a></h4>
+  <div style="text-align: justify">
+    I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
+  </div><br>
 
-<h4><a href="https://github.com/DerrickhSun/ProjectArk">Project Ark (2018)</a></h4>
+  <h4><a href="https://github.com/DerrickhSun/ProjectArk">Project Ark (2018)</a></h4>
 
-A simple video game I made using inspiration from various other games. I started this game as a tool to practice my Java skills. The game is run from the driver file in src.
+  A simple video game I made using inspiration from various other games. I started this game as a tool to practice my Java skills. The game is run from the driver file in src.
 </details>
