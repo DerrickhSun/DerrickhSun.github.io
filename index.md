@@ -69,8 +69,9 @@ I developed and evaluated dicision tree, neural network, and naive Bayes models 
 I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.
 
 #### [County Representatives Website](https://su23-11-57a34b75dce1.herokuapp.com/)
-
+<div style="text-align: right">
 I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
+</div>
 
 <details>
 <style>
