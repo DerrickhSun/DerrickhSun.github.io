@@ -20,12 +20,12 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 
 #### Purdue University (2024-2025)
 <div style="text-align: justify">
-I am a Master's student at Purdue University studying Computer Science. I plan to graduate in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with a lesser emphasis on computer security, distributed systems, and compilers.</div>
+I am a Master's student at Purdue University studying Computer Science. I plan to graduate in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with a lesser emphasis on computer security, distributed systems, and compilers.</div><br>
 
 #### University of California, Berkeley (2020-2024)
 <div style="text-align: justify">
 I earned my Bachelor's degree from the University of California, Berkeley, where I did a double major in Computer Science and Applied Math. As a Computer Science major, I focused on machine learning, AI, and algorithms. I also participated in in-context model research.<br><br>As a Applied Math major, I also studied statistics and data science.
-</div>
+</div><br>
 
 #### Westview High School
 
@@ -47,17 +47,17 @@ I attended Westview High School.
 
 #### Bridger Investment Partners (Summer 2024)
 <div style="text-align: justify">
-I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. I worked as a data scientist, using Prefect to automate their data processing. I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div>
+I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. I worked as a data scientist, using Prefect to automate their data processing. I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div><br>
 
 #### NewsBreak (Summer 2022)
 <div style="text-align: justify">
 I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
-location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.</div>
+location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.</div><br>
 
 
 #### UCSD Nanomaterials and Nanomedicine Laboratory (Summer and Winter 2019)
 <div style="text-align: justify">
-I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div>
+I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div><br>
 
 
 
@@ -68,15 +68,15 @@ I interned at UCSD as a Research Analyst Intern. I implemented modern cell membr
 #### [Personal Webpage](https://derrickhsun.github.io/)
 
 <div style="text-align: justify">
-This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from https://github.com/nicolas-van/bootstrap-4-github-pages. 
+This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 10th, 2025.
 </div>
 
-#### [Deep Learning for Mushroom Classification](https://github.com/DerrickhSun/CS573MushroomProject)
+#### [Deep Learning for Mushroom Classification (2025)](https://github.com/DerrickhSun/CS573MushroomProject)
 
 <div style="text-align: justify">
 I developed and evaluated decision tree, neural network, and naive Bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also applied LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div>
 
-#### [Uncerainty Evaluation with Neural Networks](https://github.com/DerrickhSun/CS578-Uncertainty-Project)
+#### [Uncerainty Evaluation with Neural Networks (2025)](https://github.com/DerrickhSun/CS578-Uncertainty-Project)
 
 <div style="text-align: justify">
 I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div>
