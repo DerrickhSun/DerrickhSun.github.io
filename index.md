@@ -14,33 +14,18 @@ I am a graduate student at Purdue University, studying Computer Science. I am es
 
 I got my Bachelor's degree from the University of California Berkeley, which I graduated from in 2024.
 
-<section class="experience">
-<h2> My Experience </h2>
-</section>
-
-#### Bridger Investment Partners
-
-I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. I worked as a data scientist, using Prefect to automate their data processing. I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.
-
-#### NewsBreak
-
-I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
-location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.
-
-
-#### UCSD Nanomaterials and Nanomedicine Laboratory
-
-I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i>
+I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">LinkedIn</a>, and much of my work can be found on <a href="https://github.com/DerrickhSun">GitHub</a>.
 
 ## My Education
 
 #### Purdue University (2024-2025)
-
-I am a graduate student at Purdue University. I am studying Computer Science.
+<div style="text-align: justify">
+I am a Master's student at Purdue University studying Computer Science. I plan to graduate in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with a lesser emphasis on computer security, distributed systems, and compilers.</div>
 
 #### University of California, Berkeley (2020-2024)
-
-I earned my Bachelor's degree from the University of California, Berkeley, where I did a double major in Computer Science and Applied Math.
+<div style="text-align: justify">
+I earned my Bachelor's degree from the University of California, Berkeley, where I did a double major in Computer Science and Applied Math. As a Computer Science major, I focused on machine learning, AI, and algorithms. I also participated in in-context model research.<br><br>As a Applied Math major, I also studied statistics and data science.
+</div>
 
 #### Westview High School
 
@@ -55,24 +40,49 @@ I attended Westview High School.
       <li>Cloud & Databases: AWS S3, Redshift, PostgreSQL, MongoDB</li>
       <li>Development Tools: Git, Docker, Prefect, XCode, LaTeX, RISC-V</li>
     </ul>
+  
+<section class="experience">
+<h2> My Experience </h2>
+</section>
+
+#### Bridger Investment Partners (Summer 2024)
+<div style="text-align: justify">
+I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. I worked as a data scientist, using Prefect to automate their data processing. I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div>
+
+#### NewsBreak (Summer 2022)
+<div style="text-align: justify">
+I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
+location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.</div>
+
+
+#### UCSD Nanomaterials and Nanomedicine Laboratory (Summer and Winter 2019)
+<div style="text-align: justify">
+I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div>
+
+
 
 ## My Projects
 
 ### Recent Projects
 
+#### [Personal Webpage](https://derrickhsun.github.io/)
+
+<div style="text-align: justify">
+This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from https://github.com/nicolas-van/bootstrap-4-github-pages. 
+</div>
+
 #### [Deep Learning for Mushroom Classification](https://github.com/DerrickhSun/CS573MushroomProject)
 
-I developed and evaluated dicision tree, neural network, and naive Bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also applied LIME to enhance model interpretability, which showed smell was one of the most dominant factors.
+<div style="text-align: justify">
+I developed and evaluated decision tree, neural network, and naive Bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also applied LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div>
 
 #### [Uncerainty Evaluation with Neural Networks](https://github.com/DerrickhSun/CS578-Uncertainty-Project)
 
-I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.
+<div style="text-align: justify">
+I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div>
 
-#### [County Representatives Website](https://su23-11-57a34b75dce1.herokuapp.com/)
-<div style="text-align: right">
-I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
-</div>
 
+<br>
 <details>
 <style>
   h3 {
@@ -82,25 +92,12 @@ I wrote the code for an app that allows for the viewing of representatives of co
 <summary><h3>Older Projects</h3>
 </summary>
 
-<h4><a href="https://github.com/cs186-student/sp23-proj5-leslie33kim/commits/main">ARIES Recovery System</a></h4>
+<h4><a href="https://su23-11-57a34b75dce1.herokuapp.com/">County Representatives Website (2023)</a></h4>
+<div style="text-align: justify">
+  I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
+</div>
 
-I implemented a recovery system, including savepoints, rollbacks, and ACID compliant restart recovery. The system makes use of a dirty page dable and transaction table to track database accesses and recovery in the event of failure. I worked with another person when working on this project.
+<h4><a href="https://github.com/DerrickhSun/ProjectArk">Project Ark (2018)</a></h4>
 
-<h4><a href="https://github.com/DerrickhSun/CS162OSFilesys">Pintos Filesys Operating System</a></h4>
-      
-I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It also has a working filesystem, including a buffer cache, extensible files, subdirectories and file locking. However, it only has basic multithreading, and is lacking many features such as an internal clock and priority lending. I had three collaborators when working on this project.
-
-<h4><a href="https://github.com/DerrickhSun/CS162OSMultithreading">Pintos Multithreaded Operating System</a></h4>
-
-I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It is multithreaded, implementing locks, thread priorities, priority lending, and an internal clock. However, it is lacking many filesystem features such as subdirectories and a buffer cache. I had three collaborators when working on this project.
-
-<h4><a href="https://github.com/61c-student/sp21-proj4-DerrickhSun">Matrix Multiplication</a></h4>
-
-I implemented matrix multiplication in a mix of C and Python, then optimized it with unrolling, cache blocking, parallelizing, call reducing, and other optimizations. The finished result created matrix objects from certain input and performed matrix multiplication on the matrices.
-
-<h4><a href="https://github.com/DerrickhSun/ProjectArk">Project Ark</a></h4>
-
-A video game made using characters from the game "Arknights" and gameplay inspired by "Smash Bros." I started this game as a tool to practice my Java skills.
-
-The game has three useable characters and is best played with two players. It is admittedly not user-friendly, as it was only intended as a for-fun project and I frequently have to stop part way through updates due to school. The game is run from the driver file in src.
+A simple video game I made using inspiration from various other games. I started this game as a tool to practice my Java skills. The game is run from the driver file in src.
 </details>
