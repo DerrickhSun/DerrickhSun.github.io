@@ -64,7 +64,6 @@ I interned at UCSD as a Research Analyst Intern. I implemented modern cell membr
 ## My Projects
 
 ### Recent Projects
-<br>
 
 #### [Personal Webpage](https://derrickhsun.github.io/)
 
@@ -91,7 +90,6 @@ I trained neural networks to estimate uncertainty in Walmart sales forecasts, ev
   </style>
   <summary><h3>Older Projects</h3>
   </summary>
-  <br>
 
   <h4><a href="https://su23-11-57a34b75dce1.herokuapp.com/">County Representatives Website (2023)</a></h4>
   <div style="text-align: justify">
