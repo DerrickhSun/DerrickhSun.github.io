@@ -1,5 +1,8 @@
+# Personal Website
 
-# Boostrap 4 Github Pages
+This is the repository for my personal website. This was built with the help of Bootstrap 4 Github Pages. The majority of my own html is in index.html.
+
+## Boostrap 4 Github Pages
 
 A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
@@ -10,9 +13,6 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 
 [See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
 
-## Contribution
-
-[See the contribution guide.](./CONTRIBUTING.md)
 
 ## License
 
