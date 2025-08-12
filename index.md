@@ -78,12 +78,12 @@ I interned at UCSD as a Research Analyst Intern. I implemented modern cell membr
   This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 12th, 2025.
   </div><br>
 
-  <h4><a href="https://github.com/DerrickhSun/CS573MushroomProject">Deep Learning for Mushroom Classification (2025)</a></h4>
+  <h4><a href="https://github.com/DerrickhSun/MushroomProject">Deep Learning for Mushroom Classification (2025)</a></h4>
 
   <div style="text-align: justify">
-  I developed and evaluated decision tree, neural network, and naive Bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also applied LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div><br>
+  I developed neural network models and assisted in the development of decision tree and naive bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also helped apply LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div><br>
 
-  <h4><a href="https://github.com/DerrickhSun/CS578-Uncertainty-Project">Uncerainty Evaluation with Neural Networks (2025)</a></h4>
+  <h4><a href="https://github.com/DerrickhSun/Uncertainty-Project">Uncerainty Evaluation with Neural Networks (2025)</a></h4>
 
   <div style="text-align: justify">
   I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div><br>
