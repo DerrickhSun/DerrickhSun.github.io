@@ -63,7 +63,7 @@ I interned at UCSD as a Research Analyst Intern. I implemented modern cell membr
 
 ## My Projects
 
-<details>
+<details open>
   <style>
     h3 {
       display: inline; /* Or display: inline-block; */
@@ -72,10 +72,10 @@ I interned at UCSD as a Research Analyst Intern. I implemented modern cell membr
   <summary><h3>Recent Projects</h3>
   </summary>
 
-  <h4><a href="https://github.com/DerrickhSun/DerrickhSun.github.io">Personal Webpage</a></h4>
+  <h4><a href="https://github.com/DerrickhSun/DerrickhSun.github.io">Website Construction</a></h4>
 
   <div style="text-align: justify">
-  This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 10th, 2025.
+  This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 12th, 2025.
   </div><br>
 
   <h4><a href="https://github.com/DerrickhSun/CS573MushroomProject">Deep Learning for Mushroom Classification (2025)</a></h4>
