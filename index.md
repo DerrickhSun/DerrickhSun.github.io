@@ -63,24 +63,31 @@ I interned at UCSD as a Research Analyst Intern. I implemented modern cell membr
 
 ## My Projects
 
-### Recent Projects
+<details>
+  <style>
+    h3 {
+      display: inline; /* Or display: inline-block; */
+    }
+  </style>
+  <summary><h3>Recent Projects</h3>
+  </summary>
 
-#### [Personal Webpage](https://derrickhsun.github.io/)
+  <h4><a href="https://github.com/DerrickhSun/DerrickhSun.github.io">Personal Webpage</a></h4>
 
-<div style="text-align: justify">
-This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 10th, 2025.
-</div><br>
+  <div style="text-align: justify">
+  This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 10th, 2025.
+  </div><br>
 
-#### [Deep Learning for Mushroom Classification (2025)](https://github.com/DerrickhSun/CS573MushroomProject)
+  <h4><a href="https://github.com/DerrickhSun/CS573MushroomProject">Deep Learning for Mushroom Classification (2025)</a></h4>
 
-<div style="text-align: justify">
-I developed and evaluated decision tree, neural network, and naive Bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also applied LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div><br>
+  <div style="text-align: justify">
+  I developed and evaluated decision tree, neural network, and naive Bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also applied LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div><br>
 
-#### [Uncerainty Evaluation with Neural Networks (2025)](https://github.com/DerrickhSun/CS578-Uncertainty-Project)
+  <h4><a href="https://github.com/DerrickhSun/CS578-Uncertainty-Project">Uncerainty Evaluation with Neural Networks (2025)</a></h4>
 
-<div style="text-align: justify">
-I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div><br>
-
+  <div style="text-align: justify">
+  I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div><br>
+</details>
 
 <details>
   <style>
