@@ -45,11 +45,22 @@ I attended Westview High School.
 <h2> My Experience </h2>
 </section>
 
-#### Bridger Investment Partners (Summer 2024)
+#### Purdue University: Teaching Assistant (August 2024 - May 2025)
 <div style="text-align: justify">
-I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. I worked as a data scientist, using Prefect to automate their data processing. I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div><br>
+I worked as a graduate teacher's assistant at Purdue University for CS 361 (Great Issues In Computer Science) and 
+CS 182 (Foundations of Computer Science). As a GTA, I designed grading rubrics, led undergraduate assistants in 
+grading assignments, and provided consistent professional correspondence with students and the professors in a 
+timely manner.</div></br>
 
-#### NewsBreak (Summer 2022)
+
+#### Bridger Investment Partners: Data Scientist Intern (May 2024 - August 2024)
+<div style="text-align: justify">
+I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. 
+I worked as a data scientist, using Prefect to automate their data processing. 
+I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div><br>
+
+
+#### NewsBreak: iOS Developer Intern (May 2022 - August 2022)
 <div style="text-align: justify">
 I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
 location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.</div><br>
