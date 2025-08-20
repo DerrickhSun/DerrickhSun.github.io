@@ -3,6 +3,37 @@ layout: page
 title: Derrick Sun
 ---
 
+<style>
+  /* Global font size controls */
+  body {
+    font-size: 16px; /* Base font size for body text */
+    line-height: 1.6; /* Improved readability */
+  }
+  
+  /* Heading sizes */
+  h1 { font-size: 2.5em; } /* 40px */
+  h2 { font-size: 2em; }   /* 32px */
+  h3 { font-size: 1.5em; } /* 24px */
+  h4 { font-size: 1.25em; } /* 20px */
+  h5 { font-size: 1.1em; }  /* 17.6px */
+  h6 { font-size: 1em; }    /* 16px */
+  
+  /* Paragraph and list text */
+  p, li, div {
+    font-size: 1em; /* 16px - matches body */
+  }
+  
+  /* Links */
+  a {
+    font-size: inherit;
+  }
+  
+  /* Inline display for specific elements */
+  h2, h3, h4 {
+    display: inline;
+  }
+</style>
+
 
 <p align="center">
 <img src="./images/selfInSuit.jpg" alt="image of me" style="width:300px;"/>
@@ -42,50 +73,53 @@ I attended Westview High School.
     </ul>
 
 <details open>
-<style>
-    h2 {
-      display: inline; /* Or display: inline-block; */
-    }
-  </style>
   <summary>
-  <h2> My Experience </h2>
-</summary>
+    <h2> My Experience </h2>
+  </summary>
 
-<h4> Purdue University: Teaching Assistant (August 2024 - May 2025)</h4>
-<div style="text-align: justify">
-I worked as a graduate teacher's assistant at Purdue University for CS 361 (Great Issues In Computer Science) and 
-CS 182 (Foundations of Computer Science). As a GTA, I designed grading rubrics, led undergraduate assistants in 
-grading assignments, and provided consistent professional correspondence with students and the professors in a 
-timely manner.</div><br>
+  <details>
+    <summary>
+      <h4> Purdue University: Teaching Assistant (August 2024 - May 2025)</h4>
+    </summary>
+    <div style="text-align: justify">
+    I worked as a graduate teacher's assistant at Purdue University for CS 361 (Great Issues In Computer Science) and 
+    CS 182 (Foundations of Computer Science). As a GTA, I designed grading rubrics, led undergraduate assistants in 
+    grading assignments, and provided consistent professional correspondence with students and the professors in a 
+    timely manner.</div><br>
+  </details>
 
+  <details>
+    <summary>
+      <h4> Bridger Investment Partners: Data Scientist Intern (May 2024 - August 2024)</h4>
+    </summary>
+    <div style="text-align: justify">
+    I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. 
+    I worked as a data scientist, using Prefect to automate their data processing. 
+    I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div><br>
+  </details>
 
-<h4> Bridger Investment Partners: Data Scientist Intern (May 2024 - August 2024)</h4>
-<div style="text-align: justify">
-I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. 
-I worked as a data scientist, using Prefect to automate their data processing. 
-I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div><br>
+  <details>
+    <summary>
+      <h4> NewsBreak: iOS Developer Intern (May 2022 - August 2022)</h4>
+    </summary>
+    <div style="text-align: justify">
+    I interned at NewsBreak, a company that focuses on providing news tailored to a user's 
+    location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.</div><br>
+  </details>
 
-
-<h4> NewsBreak: iOS Developer Intern (May 2022 - August 2022)</h4>
-<div style="text-align: justify">
-I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
-location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.</div><br>
-
-
-<h4> UCSD Nanomaterials and Nanomedicine Laboratory (June 2019 - March 2020) </h4>
-<div style="text-align: justify">
-I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div><br>
+  <details>
+    <summary>
+      <h4> UCSD Nanomaterials and Nanomedicine Laboratory (June 2019 - March 2020) </h4>
+    </summary>
+    <div style="text-align: justify">
+    I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div><br>
+  </details>
 </details>
 <br>
 
 ## My Projects
 
 <details open>
-  <style>
-    h3 {
-      display: inline; /* Or display: inline-block; */
-    }
-  </style>
   <summary><h3>Recent Projects</h3>
   </summary>
 
