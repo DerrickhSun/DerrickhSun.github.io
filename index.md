@@ -6,7 +6,7 @@ title: Derrick Sun
 <style>
   /* Global font size controls */
   body {
-    font-size: 16px; /* Base font size for body text */
+    font-size: 12px; /* Base font size for body text */
     line-height: 1.6; /* Improved readability */
   }
   
@@ -60,7 +60,7 @@ title: Derrick Sun
     text-align: right;
     color: #666;
     font-weight: normal;
-    margin-left: 20px;
+    margin-left: 25px;
     float: right;
   }
   
