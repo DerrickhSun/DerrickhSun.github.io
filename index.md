@@ -6,7 +6,7 @@ title: Derrick Sun
 <style>
   /* Global font size controls */
   body {
-    font-size: 12px; /* Base font size for body text */
+    font-size: 10px; /* Base font size for body text */
     line-height: 1.6; /* Improved readability */
   }
   
@@ -142,7 +142,7 @@ I attended Westview High School.
     I worked as a graduate teacher's assistant at Purdue University for CS 361 (Great Issues In Computer Science) and 
     CS 182 (Foundations of Computer Science). As a GTA, I designed grading rubrics, led undergraduate assistants in 
     grading assignments, and provided consistent professional correspondence with students and the professors in a 
-    timely manner.</div><br>
+    timely manner.</div>
   </details>
 
   <details>
@@ -152,7 +152,7 @@ I attended Westview High School.
     <div style="text-align: justify">
     I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. 
     I worked as a data scientist, using Prefect to automate their data processing. 
-    I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div><br>
+    I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div>
   </details>
 
   <details>
@@ -161,7 +161,7 @@ I attended Westview High School.
     </summary>
     <div style="text-align: justify">
     I interned at NewsBreak, a company that focuses on providing news tailored to a user's 
-    location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.</div><br>
+    location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.</div>
   </details>
 
   <details>
@@ -186,7 +186,7 @@ I attended Westview High School.
     </summary>
     <div style="text-align: justify">
     This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 19th, 2025.
-    </div><br>
+    </div>
   </details>
 
   <details>
@@ -194,7 +194,7 @@ I attended Westview High School.
       <h4><a href="https://github.com/DerrickhSun/MushroomProject">Deep Learning for Mushroom Classification (2025)</a></h4>
     </summary>
     <div style="text-align: justify">
-    I developed neural network models and assisted in the development of decision tree and naive bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also helped apply LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div><br>
+    I developed neural network models and assisted in the development of decision tree and naive bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also helped apply LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div>
   </details>
 
   <details>
@@ -202,7 +202,7 @@ I attended Westview High School.
       <h4><a href="https://github.com/DerrickhSun/Uncertainty-Project">Uncerainty Evaluation with Neural Networks (2025)</a></h4>
     </summary>
     <div style="text-align: justify">
-    I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div><br>
+    I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div>
   </details>
 </details>
 
@@ -216,7 +216,7 @@ I attended Westview High School.
     </summary>
     <div style="text-align: justify">
       I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
-    </div><br>
+    </div>
   </details>
 
   <details>
