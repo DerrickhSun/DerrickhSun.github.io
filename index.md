@@ -82,6 +82,17 @@ title: Derrick Sun
     width: 100%;
   }
   
+  /* Normalize skills list spacing for consistent dropdown behavior */
+  .skills-section ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .skills-section li {
+    margin: 0;
+    padding: 0;
+  }
+  
   /* Ensure default dropdown arrows are visible */
   summary::-webkit-details-marker {
     display: inline-block !important;
@@ -160,6 +171,7 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
         <li>Development Tools: Git, Docker, Prefect, XCode, LaTeX, RISC-V</li>
       </ul>
 </details>
+<br>
 
 <details open class="experience-section">
   <summary>
