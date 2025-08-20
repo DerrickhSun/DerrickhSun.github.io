@@ -169,7 +169,7 @@ I attended Westview High School.
       <h4><span class="job-title">UCSD Nanomaterials and Nanomedicine Laboratory</span><span class="job-date">(June 2019 - March 2020)</span></h4>
     </summary>
     <div style="text-align: justify">
-    I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div><br>
+    I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div>
   </details>
 </details>
 <br>
@@ -180,33 +180,51 @@ I attended Westview High School.
   <summary><h3>Recent Projects</h3>
   </summary>
 
-  <h4><a href="https://github.com/DerrickhSun/DerrickhSun.github.io">Website Construction</a></h4>
+  <details>
+    <summary>
+      <h4><a href="https://github.com/DerrickhSun/DerrickhSun.github.io">Website Construction</a></h4>
+    </summary>
+    <div style="text-align: justify">
+    This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 19th, 2025.
+    </div><br>
+  </details>
 
-  <div style="text-align: justify">
-  This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 19th, 2025.
-  </div><br>
+  <details>
+    <summary>
+      <h4><a href="https://github.com/DerrickhSun/MushroomProject">Deep Learning for Mushroom Classification (2025)</a></h4>
+    </summary>
+    <div style="text-align: justify">
+    I developed neural network models and assisted in the development of decision tree and naive bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also helped apply LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div><br>
+  </details>
 
-  <h4><a href="https://github.com/DerrickhSun/MushroomProject">Deep Learning for Mushroom Classification (2025)</a></h4>
-
-  <div style="text-align: justify">
-  I developed neural network models and assisted in the development of decision tree and naive bayes models to classify mushroom edibility, and was able to achieve over 90% accuracy on all three. I also helped apply LIME to enhance model interpretability, which showed smell was one of the most dominant factors.</div><br>
-
-  <h4><a href="https://github.com/DerrickhSun/Uncertainty-Project">Uncerainty Evaluation with Neural Networks (2025)</a></h4>
-
-  <div style="text-align: justify">
-  I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div><br>
+  <details>
+    <summary>
+      <h4><a href="https://github.com/DerrickhSun/Uncertainty-Project">Uncerainty Evaluation with Neural Networks (2025)</a></h4>
+    </summary>
+    <div style="text-align: justify">
+    I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div><br>
+  </details>
 </details>
 
 <details class="projects-section">
   <summary><h3>Older Projects</h3>
   </summary>
 
-  <h4><a href="https://su23-11-57a34b75dce1.herokuapp.com/">County Representatives Website (2023)</a></h4>
-  <div style="text-align: justify">
-    I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
-  </div><br>
+  <details>
+    <summary>
+      <h4><a href="https://su23-11-57a34b75dce1.herokuapp.com/">County Representatives Website (2023)</a></h4>
+    </summary>
+    <div style="text-align: justify">
+      I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
+    </div><br>
+  </details>
 
-  <h4><a href="https://github.com/DerrickhSun/ProjectArk">Project Ark (2018)</a></h4>
-
-  A simple video game I made using inspiration from various other games. I started this game as a tool to practice my Java skills. The game is run from the driver file in src.
+  <details>
+    <summary>
+      <h4><a href="https://github.com/DerrickhSun/ProjectArk">Project Ark (2018)</a></h4>
+    </summary>
+    <div style="text-align: justify">
+      A simple video game I made using inspiration from various other games. I started this game as a tool to practice my Java skills. The game is run from the driver file in src.
+    </div>
+  </details>
 </details>
