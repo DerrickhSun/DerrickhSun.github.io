@@ -76,6 +76,12 @@ title: Derrick Sun
     width: 100%;
   }
   
+  /* Skills section styling to match other sections */
+  .skills-section summary {
+    cursor: pointer;
+    width: 100%;
+  }
+  
   /* Ensure default dropdown arrows are visible */
   summary::-webkit-details-marker {
     display: inline-block !important;
@@ -110,10 +116,9 @@ I got my Bachelor's degree from the University of California Berkeley, which I g
 
 I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">LinkedIn</a>, and much of my work can be found on <a href="https://github.com/DerrickhSun">GitHub</a>.
 
-## My Education
 
 <details open class="education-section">
-  <summary><h3>My Education</h3></summary>
+  <summary><h2>My Education</h2></summary>
 
   <details>
     <summary>
@@ -141,16 +146,21 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
     </div>
   </details>
 </details>
+<br>
 
 ## Skills
 
-<ul class=skilllist>
-      <li>Programming Languages: Python, Java, SQL, C/C++, R, MATLAB, Swift, JavaScript, HTML/CSS</li>
-      <li>ML/AI Frameworks: PyTorch, TensorFlow, DSPy, Scikit-learn</li>
-      <li>Data Tools: Pandas, NumPy, Matplotlib, Seaborn, RStudio, Jupyter</li>
-      <li>Cloud & Databases: AWS S3, Redshift, PostgreSQL, MongoDB</li>
-      <li>Development Tools: Git, Docker, Prefect, XCode, LaTeX, RISC-V</li>
-    </ul>
+<details open class="skills-section">
+  <summary><h2>Skills</h2></summary>
+
+  <ul class=skilllist>
+        <li>Programming Languages: Python, Java, SQL, C/C++, R, MATLAB, Swift, JavaScript, HTML/CSS</li>
+        <li>ML/AI Frameworks: PyTorch, TensorFlow, DSPy, Scikit-learn</li>
+        <li>Data Tools: Pandas, NumPy, Matplotlib, Seaborn, RStudio, Jupyter</li>
+        <li>Cloud & Databases: AWS S3, Redshift, PostgreSQL, MongoDB</li>
+        <li>Development Tools: Git, Docker, Prefect, XCode, LaTeX, RISC-V</li>
+      </ul>
+</details>
 
 <details open class="experience-section">
   <summary>
@@ -200,8 +210,10 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 ## My Projects
 
 <details open class="projects-section">
-  <summary><h3>Recent Projects</h3>
-  </summary>
+  <summary><h2>My Projects</h2></summary>
+
+  <details open class="projects-section">
+    <summary><h3>Recent Projects</h3></summary>
 
   <details>
     <summary>
