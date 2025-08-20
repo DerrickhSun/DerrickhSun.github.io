@@ -44,32 +44,50 @@ title: Derrick Sun
   
   /* Ensure summary elements work properly with the flexbox layout */
   .experience-section summary {
-    display: flex;
-    align-items: center;
-    width: 100%;
     cursor: pointer;
+    width: 100%;
   }
   
   /* Style for the job title part */
   .experience-section h4 .job-title {
-    flex: 1;
+    display: inline-block;
     text-align: left;
   }
   
   /* Style for the date part */
   .experience-section h4 .job-date {
+    display: inline-block;
     text-align: right;
     color: #666;
     font-weight: normal;
     margin-left: 20px;
+    float: right;
   }
   
   /* Projects section styling to match experience section */
   .projects-section summary {
-    display: flex;
-    align-items: center;
-    width: 100%;
     cursor: pointer;
+    width: 100%;
+  }
+  
+  /* Ensure default dropdown arrows are visible */
+  summary::-webkit-details-marker {
+    display: inline-block !important;
+    color: inherit;
+  }
+  
+  summary::marker {
+    display: inline-block !important;
+    color: inherit;
+  }
+  
+  /* Alternative approach: force arrow display */
+  details summary {
+    list-style: disclosure-closed;
+  }
+  
+  details[open] summary {
+    list-style: disclosure-open;
   }
 </style>
 
