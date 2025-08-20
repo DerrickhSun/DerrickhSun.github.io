@@ -48,36 +48,6 @@ title: Derrick Sun
     align-items: center;
     width: 100%;
     cursor: pointer;
-    list-style: none; /* Remove default list styling */
-  }
-  
-  /* Style the summary marker (dropdown arrow) - ensure it's visible */
-  .experience-section summary::-webkit-details-marker {
-    display: block !important;
-    margin-right: 8px;
-    color: #333;
-    font-size: 1.2em;
-  }
-  
-  .experience-section summary::marker {
-    display: block !important;
-    margin-right: 8px;
-    color: #333;
-    font-size: 1.2em;
-  }
-  
-  /* Fallback for browsers that don't support ::marker */
-  .experience-section summary::before {
-    content: "▶";
-    margin-right: 8px;
-    color: #333;
-    font-size: 0.8em;
-    transition: transform 0.2s ease;
-  }
-  
-  /* Rotate arrow when details are open */
-  .experience-section details[open] summary::before {
-    transform: rotate(90deg);
   }
   
   /* Style for the job title part */
@@ -93,40 +63,13 @@ title: Derrick Sun
     font-weight: normal;
     margin-left: 20px;
   }
-
+  
   /* Projects section styling to match experience section */
   .projects-section summary {
     display: flex;
     align-items: center;
     width: 100%;
     cursor: pointer;
-    list-style: none;
-  }
-  
-  .projects-section summary::-webkit-details-marker {
-    display: block !important;
-    margin-right: 8px;
-    color: #333;
-    font-size: 1.2em;
-  }
-  
-  .projects-section summary::marker {
-    display: block !important;
-    margin-right: 8px;
-    color: #333;
-    font-size: 1.2em;
-  }
-  
-  .projects-section summary::before {
-    content: "▶";
-    margin-right: 8px;
-    color: #333;
-    font-size: 0.8em;
-    transition: transform 0.2s ease;
-  }
-  
-  .projects-section details[open] summary::before {
-    transform: rotate(90deg);
   }
 </style>
 
