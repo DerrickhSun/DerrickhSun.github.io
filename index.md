@@ -42,6 +42,15 @@ title: Derrick Sun
     margin: 0;
   }
   
+  /* Special styling for education h4 elements to align dates to the right */
+  .education-section h4 {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+  }
+  
   /* Ensure summary elements work properly with the flexbox layout */
   .experience-section summary {
     cursor: pointer;
@@ -56,6 +65,22 @@ title: Derrick Sun
   
   /* Style for the date part */
   .experience-section h4 .job-date {
+    display: inline-block;
+    text-align: right;
+    color: #666;
+    font-weight: normal;
+    margin-left: 25px;
+    float: right;
+  }
+  
+  /* Style for the education title part */
+  .education-section h4 .job-title {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  /* Style for the education date part */
+  .education-section h4 .job-date {
     display: inline-block;
     text-align: right;
     color: #666;
@@ -133,7 +158,7 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 
   <details>
     <summary>
-      <h4>Purdue University (2024-2025)</h4>
+      <h4><span class="job-title">Purdue University</span><span class="job-date">(2024-2025)</span></h4>
     </summary>
     <div style="text-align: justify">
     I am a Master's student at Purdue University studying Computer Science. I plan to graduate in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with a lesser emphasis on computer security, distributed systems, and compilers.</div>
@@ -141,7 +166,7 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 
   <details>
     <summary>
-      <h4>University of California, Berkeley (2020-2024)</h4>
+      <h4><span class="job-title">University of California, Berkeley</span><span class="job-date">(2020-2024)</span></h4>
     </summary>
     <div style="text-align: justify">
     I earned my Bachelor's degree from the University of California, Berkeley, where I did a double major in Computer Science and Applied Math. As a Computer Science major, I focused on machine learning, AI, and algorithms. I also participated in in-context model research.<br><br>As a Applied Math major, I also studied statistics and data science.
@@ -150,7 +175,7 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 
   <details>
     <summary>
-      <h4>Westview High School</h4>
+      <h4><span class="job-title">Westview High School</span><span class="job-date">(2016-2020)</span></h4>
     </summary>
     <div style="text-align: justify">
     I attended Westview High School.
