@@ -32,6 +32,102 @@ title: Derrick Sun
   h2, h3, h4 {
     display: inline;
   }
+  
+  /* Special styling for experience h4 elements to align dates to the right */
+  .experience-section h4 {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+  }
+  
+  /* Ensure summary elements work properly with the flexbox layout */
+  .experience-section summary {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    cursor: pointer;
+    list-style: none; /* Remove default list styling */
+  }
+  
+  /* Style the summary marker (dropdown arrow) - ensure it's visible */
+  .experience-section summary::-webkit-details-marker {
+    display: block !important;
+    margin-right: 8px;
+    color: #333;
+    font-size: 1.2em;
+  }
+  
+  .experience-section summary::marker {
+    display: block !important;
+    margin-right: 8px;
+    color: #333;
+    font-size: 1.2em;
+  }
+  
+  /* Fallback for browsers that don't support ::marker */
+  .experience-section summary::before {
+    content: "▶";
+    margin-right: 8px;
+    color: #333;
+    font-size: 0.8em;
+    transition: transform 0.2s ease;
+  }
+  
+  /* Rotate arrow when details are open */
+  .experience-section details[open] summary::before {
+    transform: rotate(90deg);
+  }
+  
+  /* Style for the job title part */
+  .experience-section h4 .job-title {
+    flex: 1;
+    text-align: left;
+  }
+  
+  /* Style for the date part */
+  .experience-section h4 .job-date {
+    text-align: right;
+    color: #666;
+    font-weight: normal;
+    margin-left: 20px;
+  }
+
+  /* Projects section styling to match experience section */
+  .projects-section summary {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    cursor: pointer;
+    list-style: none;
+  }
+  
+  .projects-section summary::-webkit-details-marker {
+    display: block !important;
+    margin-right: 8px;
+    color: #333;
+    font-size: 1.2em;
+  }
+  
+  .projects-section summary::marker {
+    display: block !important;
+    margin-right: 8px;
+    color: #333;
+    font-size: 1.2em;
+  }
+  
+  .projects-section summary::before {
+    content: "▶";
+    margin-right: 8px;
+    color: #333;
+    font-size: 0.8em;
+    transition: transform 0.2s ease;
+  }
+  
+  .projects-section details[open] summary::before {
+    transform: rotate(90deg);
+  }
 </style>
 
 
@@ -72,14 +168,14 @@ I attended Westview High School.
       <li>Development Tools: Git, Docker, Prefect, XCode, LaTeX, RISC-V</li>
     </ul>
 
-<details open>
+<details open class="experience-section">
   <summary>
     <h2> My Experience </h2>
   </summary>
 
   <details>
     <summary>
-      <h4> Purdue University: Teaching Assistant (August 2024 - May 2025)</h4>
+      <h4><span class="job-title">Purdue University: Teaching Assistant</span><span class="job-date">(August 2024 - May 2025)</span></h4>
     </summary>
     <div style="text-align: justify">
     I worked as a graduate teacher's assistant at Purdue University for CS 361 (Great Issues In Computer Science) and 
@@ -90,7 +186,7 @@ I attended Westview High School.
 
   <details>
     <summary>
-      <h4> Bridger Investment Partners: Data Scientist Intern (May 2024 - August 2024)</h4>
+      <h4><span class="job-title">Bridger Investment Partners: Data Scientist Intern</span><span class="job-date">(May 2024 - August 2024)</span></h4>
     </summary>
     <div style="text-align: justify">
     I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. 
@@ -100,7 +196,7 @@ I attended Westview High School.
 
   <details>
     <summary>
-      <h4> NewsBreak: iOS Developer Intern (May 2022 - August 2022)</h4>
+      <h4><span class="job-title">NewsBreak: iOS Developer Intern</span><span class="job-date">(May 2022 - August 2022)</span></h4>
     </summary>
     <div style="text-align: justify">
     I interned at NewsBreak, a company that focuses on providing news tailored to a user's 
@@ -109,7 +205,7 @@ I attended Westview High School.
 
   <details>
     <summary>
-      <h4> UCSD Nanomaterials and Nanomedicine Laboratory (June 2019 - March 2020) </h4>
+      <h4><span class="job-title">UCSD Nanomaterials and Nanomedicine Laboratory</span><span class="job-date">(June 2019 - March 2020)</span></h4>
     </summary>
     <div style="text-align: justify">
     I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div><br>
@@ -119,7 +215,7 @@ I attended Westview High School.
 
 ## My Projects
 
-<details open>
+<details open class="projects-section">
   <summary><h3>Recent Projects</h3>
   </summary>
 
@@ -140,12 +236,7 @@ I attended Westview High School.
   I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div><br>
 </details>
 
-<details>
-  <style>
-    h3 {
-      display: inline; /* Or display: inline-block; */
-    }
-  </style>
+<details class="projects-section">
   <summary><h3>Older Projects</h3>
   </summary>
 
