@@ -51,7 +51,7 @@ I attended Westview High School.
   <h2> My Experience </h2>
 </summary>
 
-#### Purdue University: Teaching Assistant (August 2024 - May 2025)
+<h4> Purdue University: Teaching Assistant (August 2024 - May 2025)</h4>
 <div style="text-align: justify">
 I worked as a graduate teacher's assistant at Purdue University for CS 361 (Great Issues In Computer Science) and 
 CS 182 (Foundations of Computer Science). As a GTA, I designed grading rubrics, led undergraduate assistants in 
@@ -59,20 +59,20 @@ grading assignments, and provided consistent professional correspondence with st
 timely manner.</div><br>
 
 
-#### Bridger Investment Partners: Data Scientist Intern (May 2024 - August 2024)
+<h4> Bridger Investment Partners: Data Scientist Intern (May 2024 - August 2024)</h4>
 <div style="text-align: justify">
 I interned with Bridger Investment Partners, an investment firm that focuses on mortgages. 
 I worked as a data scientist, using Prefect to automate their data processing. 
 I also analyzed mortgage data from AWS S3 and Redshift using Python, SQL, and statistics.</div><br>
 
 
-#### NewsBreak: iOS Developer Intern (May 2022 - August 2022)
+<h4> NewsBreak: iOS Developer Intern (May 2022 - August 2022)</h4>
 <div style="text-align: justify">
 I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
 location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.</div><br>
 
 
-#### UCSD Nanomaterials and Nanomedicine Laboratory (Summer and Winter 2019)
+<h4> UCSD Nanomaterials and Nanomedicine Laboratory (June 2019 - March 2020) </h4>
 <div style="text-align: justify">
 I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div><br>
 </details>
