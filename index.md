@@ -70,6 +70,12 @@ title: Derrick Sun
     width: 100%;
   }
   
+  /* Education section styling to match projects section */
+  .education-section summary {
+    cursor: pointer;
+    width: 100%;
+  }
+  
   /* Ensure default dropdown arrows are visible */
   summary::-webkit-details-marker {
     display: inline-block !important;
@@ -106,18 +112,35 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 
 ## My Education
 
-#### Purdue University (2024-2025)
-<div style="text-align: justify">
-I am a Master's student at Purdue University studying Computer Science. I plan to graduate in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with a lesser emphasis on computer security, distributed systems, and compilers.</div><br>
+<details open class="education-section">
+  <summary><h3>My Education</h3></summary>
 
-#### University of California, Berkeley (2020-2024)
-<div style="text-align: justify">
-I earned my Bachelor's degree from the University of California, Berkeley, where I did a double major in Computer Science and Applied Math. As a Computer Science major, I focused on machine learning, AI, and algorithms. I also participated in in-context model research.<br><br>As a Applied Math major, I also studied statistics and data science.
-</div><br>
+  <details>
+    <summary>
+      <h4>Purdue University (2024-2025)</h4>
+    </summary>
+    <div style="text-align: justify">
+    I am a Master's student at Purdue University studying Computer Science. I plan to graduate in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with a lesser emphasis on computer security, distributed systems, and compilers.</div>
+  </details>
 
-#### Westview High School
+  <details>
+    <summary>
+      <h4>University of California, Berkeley (2020-2024)</h4>
+    </summary>
+    <div style="text-align: justify">
+    I earned my Bachelor's degree from the University of California, Berkeley, where I did a double major in Computer Science and Applied Math. As a Computer Science major, I focused on machine learning, AI, and algorithms. I also participated in in-context model research.<br><br>As a Applied Math major, I also studied statistics and data science.
+    </div>
+  </details>
 
-I attended Westview High School.
+  <details>
+    <summary>
+      <h4>Westview High School</h4>
+    </summary>
+    <div style="text-align: justify">
+    I attended Westview High School.
+    </div>
+  </details>
+</details>
 
 ## Skills
 
