@@ -40,17 +40,23 @@ I attended Westview High School.
       <li>Cloud & Databases: AWS S3, Redshift, PostgreSQL, MongoDB</li>
       <li>Development Tools: Git, Docker, Prefect, XCode, LaTeX, RISC-V</li>
     </ul>
-  
-<section class="experience">
-<h2> My Experience </h2>
-</section>
+
+<details open>
+<style>
+    h2 {
+      display: inline; /* Or display: inline-block; */
+    }
+  </style>
+  <summary>
+  <h2> My Experience </h2>
+</summary>
 
 #### Purdue University: Teaching Assistant (August 2024 - May 2025)
 <div style="text-align: justify">
 I worked as a graduate teacher's assistant at Purdue University for CS 361 (Great Issues In Computer Science) and 
 CS 182 (Foundations of Computer Science). As a GTA, I designed grading rubrics, led undergraduate assistants in 
 grading assignments, and provided consistent professional correspondence with students and the professors in a 
-timely manner.</div></br>
+timely manner.</div><br>
 
 
 #### Bridger Investment Partners: Data Scientist Intern (May 2024 - August 2024)
@@ -69,8 +75,8 @@ location and interests through their mobile app, NewsBreak, under my mentor, Zhe
 #### UCSD Nanomaterials and Nanomedicine Laboratory (Summer and Winter 2019)
 <div style="text-align: justify">
 I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i></div><br>
-
-
+</details>
+<br>
 
 ## My Projects
 
@@ -86,7 +92,7 @@ I interned at UCSD as a Research Analyst Intern. I implemented modern cell membr
   <h4><a href="https://github.com/DerrickhSun/DerrickhSun.github.io">Website Construction</a></h4>
 
   <div style="text-align: justify">
-  This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 12th, 2025.
+  This webpage was coded with a mix of markdown, HTML, and Javascript, as well a Bootstrap theme from <a href="https://github.com/nicolas-van/bootstrap-4-github-pages">here</a>. While I have continuously modified the page, it was last modified August 19th, 2025.
   </div><br>
 
   <h4><a href="https://github.com/DerrickhSun/MushroomProject">Deep Learning for Mushroom Classification (2025)</a></h4>
