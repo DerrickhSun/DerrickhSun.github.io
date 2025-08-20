@@ -148,7 +148,6 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 </details>
 <br>
 
-## Skills
 
 <details open class="skills-section">
   <summary><h2>Skills</h2></summary>
@@ -207,7 +206,6 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 </details>
 <br>
 
-## My Projects
 
 <details open class="projects-section">
   <summary><h2>My Projects</h2></summary>
