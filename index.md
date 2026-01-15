@@ -152,10 +152,6 @@ I previously earned my Bachelor’s degree from the University of California, Be
 
 I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">LinkedIn</a>, and much of my work can be found on <a href="https://github.com/DerrickhSun">GitHub</a>.
 
-## My Education
-
-I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">LinkedIn</a>, and much of my work can be found on <a href="https://github.com/DerrickhSun">GitHub</a>.
-
 
 <details open class="education-section">
   <summary><h2>My Education</h2></summary>
