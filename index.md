@@ -161,7 +161,7 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
       <h4><span class="job-title">Purdue University</span><span class="job-date">(2024-2025)</span></h4>
     </summary>
     <div style="text-align: justify">
-    I recently graduated from Purdue University with a Master's in Computer Science in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with some emphasis on computer security, distributed systems, and compilers.</div><br></div>
+    I recently graduated from Purdue University with a Master's in Computer Science in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with some emphasis on computer security, distributed systems, and compilers.</div>
   </details>
 
   <details>
