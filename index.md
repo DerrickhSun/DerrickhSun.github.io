@@ -146,9 +146,13 @@ title: Derrick Sun
 
 ## About Me
 
-I am a graduate student at Purdue University, studying Computer Science. I am especially interested in machine learning and artificial intelligence. I plan to graduate in December 2025.
+I recently graduated from Purdue University with a Master’s degree in Computer Science, where I focused on machine learning and artificial intelligence.
 
-I got my Bachelor's degree from the University of California Berkeley, which I graduated from in 2024.
+I previously earned my Bachelor’s degree from the University of California, Berkeley, graduating in 2024.
+
+I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">LinkedIn</a>, and much of my work can be found on <a href="https://github.com/DerrickhSun">GitHub</a>.
+
+## My Education
 
 I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">LinkedIn</a>, and much of my work can be found on <a href="https://github.com/DerrickhSun">GitHub</a>.
 
@@ -161,7 +165,7 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
       <h4><span class="job-title">Purdue University</span><span class="job-date">(2024-2025)</span></h4>
     </summary>
     <div style="text-align: justify">
-    I am a Master's student at Purdue University studying Computer Science. I plan to graduate in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with a lesser emphasis on computer security, distributed systems, and compilers.</div>
+    I recently graduated from Purdue University with a Master's in Computer Science in December 2025. At Purdue, I have focused mainly on studying AI and machine learning, with some emphasis on computer security, distributed systems, and compilers.</div><br></div>
   </details>
 
   <details>
