@@ -252,6 +252,14 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 
   <details>
     <summary>
+      <h4>Webnovel Downloader and Translator (2025 – 2026)</h4>
+    </summary>
+    <div style="text-align: justify">
+    I built a personal project that downloads online content and calls the OpenAI API to translate it. It uses Selenium to display a menu and automatically navigate the web. It accepts user input and uses that input to navigate to the target URL, before processing the HTML and downloading the content.</div>
+  </details>
+  
+  <details>
+    <summary>
       <h4><a href="https://github.com/DerrickhSun/DerrickhSun.github.io">Website Construction</a></h4>
     </summary>
     <div style="text-align: justify">
@@ -273,14 +281,6 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
     </summary>
     <div style="text-align: justify">
     I trained neural networks to estimate uncertainty in Walmart sales forecasts, evaluating model performance using quantile calibration error curves. I developed a neural network capable of predicting uncertainty within a 10% margin of error.</div>
-  </details>
-
-  <details>
-    <summary>
-      <h4>Webnovel Downloader and Translator (2025 – 2026)</h4>
-    </summary>
-    <div style="text-align: justify">
-    I built a personal project that downloads online content and calls the OpenAI API to translate it. It uses Selenium to display a menu and automatically navigate the web. It accepts user input and uses that input to navigate to the target URL, before processing the HTML and downloading the content.</div>
   </details>
 </details>
 
