@@ -226,6 +226,14 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 
   <details>
     <summary>
+      <h4><span class="job-title">UC Berkeley: Research Assistant</span><span class="job-date">(December 2023 - May 2024)</span></h4>
+    </summary>
+    <div style="text-align: justify">
+    I conducted experimental analysis of transformer architectures (GPT-2, Mamba, and LLaMA) on in-context learning tasks. I implemented experiments and evaluated performance trade-offs across model architectures.</div>
+  </details>
+
+  <details>
+    <summary>
       <h4><span class="job-title">NewsBreak: iOS Developer Intern</span><span class="job-date">(May 2022 - August 2022)</span></h4>
     </summary>
     <div style="text-align: justify">
@@ -252,12 +260,12 @@ I am also on <a href="https://www.linkedin.com/in/derrick-sun-052130228/">Linked
 
   <details>
     <summary>
-      <h4>Webnovel Downloader and Translator (2025 – 2026)</h4>
+      <h4><a href="https://github.com/DerrickhSun/Webnovel-Downloader-and-Translator">Webnovel Downloader and Translator (2025 – 2026)</a></h4>
     </summary>
     <div style="text-align: justify">
     I built a personal project that downloads online content and calls the OpenAI API to translate it. It uses Selenium to display a menu and automatically navigate the web. It accepts user input and uses that input to navigate to the target URL, before processing the HTML and downloading the content.</div>
   </details>
-  
+
   <details>
     <summary>
       <h4><a href="https://github.com/DerrickhSun/DerrickhSun.github.io">Website Construction</a></h4>
